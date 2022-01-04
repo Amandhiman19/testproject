@@ -1,0 +1,104 @@
+        .container {
+         padding: 50px 100px;
+         background-color:#f0f2f5;
+         }
+         .row {
+         display: flex;
+         align-items: center;
+         justify-content: space-between;
+         }
+         img {
+         height: 111px;
+         margin-bottom: -28px;
+         }   
+         h2 {
+         font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+         margin: -11px 214px 10px 33px;
+         font-size: 28px;
+         font-weight: normal;
+         line-height: 32px;
+         width: 500px;
+         }
+         }
+         .myform {
+         display: flex;
+         flex-direction: column;
+         }
+         input#email {
+         width: 70%;
+         padding: 10px;
+         margin: 30px 50px 22px 35px;
+         border-radius: 6px;
+         }
+         input#Password {
+         width: 70%;
+         padding: 10px;
+         margin: 5px 64px 28px 35px;
+         border-radius: 6px;
+         }
+         button {
+         width: 76%;
+         padding: 10px;
+         background-color: #1877f2;
+		 color: #fff;
+         border-radius: 6px;
+         margin: 5px 64px 28px 35px;
+		 font-size: 23px;
+		 font-weight: 600;
+         }
+         .newaccount {
+         padding:0px;
+         text: #42b72a;
+         color: #42b72a;
+         margin-left: 39px;
+         }
+         .forgettenaccount {
+         padding: 50px;
+         margin: -55px 64px 28px 75px;
+		 border-bottom: 2px solid #ccc;
+         }
+         .newaccount a {
+         background: #42b72a;
+         color: #fff;
+         padding: 15px 30px;
+         text-align: center;
+         text-decoration: none;
+         font-size: 16px;
+         text-transform: capitalize;
+         font-weight: 600;
+         border-radius: 12px;
+         margin-left: 42px;
+         }
+         .myform {
+         align-items: center;
+         background-color: #fff;
+         border: none;
+         border-radius: 8px;
+         box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+         box-sizing: border-box;
+         margin: 40px 0 0;
+         padding: 20px 0 28px;
+         width: 396px;
+         }
+         .createpage {
+         display: flex;
+         justify-content: flex-end;
+		 margin: 19px 215px 8px 50px;
+         } 
+         .leftside {
+         margin-bottom: 150px;
+		 width: 50%;
+         }
+		 .rightside {
+         margin-bottom: 150px;
+		 width: 50%;
+         }
+         .logo-area img {
+         margin: inherit;
+         }
+		 a{
+         color: #0e0e0e;
+         }
+		 .abc {
+         color: #868d8afc;
+         }

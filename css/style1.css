@@ -1,0 +1,143 @@
+	  *{margin:0;padding:0;}
+         .container {
+         padding: 0px 42px;
+         background-color:#f0f2f5;
+         }
+         .row {
+         display: flex;
+         align-items: center;
+         justify-content: space-between;
+         }
+         img {
+         height: 111px;
+         margin-bottom: -28px;
+         }   
+         h2 {
+         font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+         margin: 15px 214px 10px 33px;
+         font-size: 28px;
+         font-weight: normal;
+         line-height: 32px;
+         width: 500px;
+         }
+         }
+         .myform {
+         display: flex;
+         flex-direction: column;
+         }
+         /* input#email {
+         width: 70%;
+         padding: 10px;
+         margin: 30px 50px 22px 35px;
+         border-radius: 6px;
+         }
+         input#Password {
+         width: 70%;
+         padding: 10px;
+         margin: 5px 64px 28px 35px;
+         border-radius: 6px;
+         } */
+         button {
+			width: 90%;
+			padding: 10px;
+			background-color: #1877f2;
+			color: #fff;
+			border-radius: 6px;
+			font-size: 23px;
+			font-weight: 600;
+			display: block;
+			margin: auto;
+			border: 2px solid;
+			margin-bottom: 20px;
+         }
+         .newaccount {
+            padding: 0px;
+			color: #42b72a;
+			text-align: center;
+         }
+         .forgettenaccount {
+            border-bottom: 1px solid #ccc;
+			text-align: center;
+			margin-bottom: 35px;
+			padding-bottom: 20px;
+         }
+         .newaccount a {
+             background: #42b72a;
+			color: #fff;
+			padding: 15px 30px;
+			text-align: center;
+			text-decoration: none;
+			text-transform: capitalize;
+			font-weight: 600;
+			border-radius: 6px;
+			font-size: 18px;
+         }
+		.newaccount a:hover {
+			background: #36a420;
+			}
+		 .createpage a:hover, .forgettenaccount a:hover {
+			text-decoration: underline;
+         }
+		 .forgettenaccount a {
+			color: #1877f2;
+			text-decoration: none;
+			font-size: 16px;
+		}
+		
+         .myform {
+         align-items: center;
+         background-color: #fff;
+         border: none;
+         border-radius: 8px;
+         box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+         box-sizing: border-box;
+         margin: 126px 124px 22px;
+         padding: 20px 0 28px;
+         width:65%;
+         }
+         .createpage {
+         display: flex;
+         justify-content: center;
+         } 
+         .leftside {
+         margin-bottom: 150px;
+		 width: 50%;
+         }
+		 .rightside {
+         margin-bottom: 150px;
+		 width: 50%;
+         }
+         .logo-area img {
+         margin: inherit;
+         }
+		.createpage a{
+		font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+		font-size: 14px;
+        font-weight: 600;
+        color:#1c1e21;
+		text-decoration: none;
+		cursor: pointer;
+         }
+		 .Forgotten Password? a
+		 {
+		 color: #1877f2;
+         font-size: 14px;
+         font-weight: 500PX;
+		 }
+		 .abc {
+         color: #868d8afc;
+         }
+		.inputStyle{
+		    width: 85%;
+			border-radius: 6px;
+			border: 1px solid #dddfe2;
+			color: #1d2129;
+			font-size: 14px;
+			height: 45px;
+			line-height: 16px;
+			padding: 0 8px;
+			margin: 20px auto;
+			display: block;
+		}
+		.inputStyle:focus{border:1px solid #1877f2;}
+		.inputStyle:focus-visible{outline:none;}

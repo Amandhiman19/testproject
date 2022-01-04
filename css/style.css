@@ -1,0 +1,148 @@
+ .myform {
+background-color: #fff;
+border: none;
+border-radius: 8px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+box-sizing: border-box;
+margin: 37px 450px 22px;
+padding: 20px 0 28px;
+width:432px
+}
+.my.row {
+display: flex;
+flex-direction: row;
+margin-bottom: 10px;
+justify-content: space-between;
+}
+input#First\ name {
+font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+font-size: 15px;
+width:38%;
+margin-left: 23px;
+padding:11px;
+border-radius: 6px;
+background: #f5f6f7;
+border: 1px solid #ccd0d5;
+}
+input#Surname 
+{
+font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+font-size: 15px;
+width: 38%;
+margin-right: 23px;
+padding: 11px;
+border-radius: 6px;
+background: #f5f6f7;
+border: 1px solid #ccd0d5;
+}
+input#email {
+font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+font-size: 15px;
+line-height: 16px;
+width: 83%;
+margin: 0px 22px 10px;
+padding: 11px;
+border-radius: 6px;
+background: #f5f6f7;
+border: 1px solid #ccd0d5;
+}
+input#Password {
+font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+font-size: 15px;
+line-height: 16px;
+width: 83%;
+margin: 0px 22px 10px;
+padding: 11px;
+border-radius: 6px;
+background: #f5f6f7;
+border: 1px solid #ccd0d5;
+}
+select#day,#month,#year {
+font-family: SFproDisplay-Regular, Helvetica, Arial, sans-serif;
+font-size: 15px;
+line-height: 16px;
+width: 30%;
+padding: 11px;
+border-radius: 6px;
+border: 1px solid #ccd0d5;
+}
+.date {
+margin-left: 12px;
+}
+.birthday {
+margin-left: 24px;
+    color: #606770;
+}
+.up {
+margin-left: 25px;
+}
+.gen {
+padding-left: 25px;
+}
+.cus {
+border: 1px solid #ccd0d5;
+display: inline-block;
+width:24.60%;
+font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+font-size: 15px;
+line-height: 29px;
+margin-left: 25px;
+text-align: center;
+border-radius: 4px;
+background: #fff;
+}
+p.click {
+margin-left: 23px;
+font-family: inherit;
+color: #777;
+font-size: 11px;
+width: auto;
+}
+button {
+border: 1px solid #ccd0d5;
+background-color:#42b72a;
+color: #fff;
+padding: 6px 67px;
+text-align: center;
+text-decoration: none;
+text-transform: capitalize;
+font-weight: 600;
+border-radius: 6px;
+font-size: 18px;
+margin-left: 113px;
+}
+h1 {
+font-size: xx-large;
+margin: 0px 0px -13px 0px;
+color: #1c1e21;
+font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+font-size: 32px;
+line-height: 38px;
+}
+p{
+color: #606770;
+font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+font-size: 15px;
+line-height: 24px;
+}
+p.abc {
+    boder: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 13px;
+	width:94%;
+}
+body {
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+}
+.pbox {
+    padding: 30px;
+    background: #ccc;
+    margin: 20px;
+}
+section.p-part {
+    display: flex;
+    width: 100%;
+}
